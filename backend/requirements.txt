@@ -1,0 +1,6 @@
+WTForms~=3.0.1
+click~=8.0.4
+Flask~=2.0.3
+Werkzeug~=2.0.3
+pytest~=7.0.1
+setuptools~=60.9.3
